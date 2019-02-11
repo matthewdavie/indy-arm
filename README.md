@@ -9,7 +9,7 @@ Update cycle: As required – sometimes several times in a single day.
 
 ## Overview
 
-The purpose of the  Hyperledger Indy/Sovrin/DID Comprehensive Architecture Architecture Reference Model (INDY ARM) is to provide a complete, reliable, precise, visual reference for the concepts presented in the draft Decentralized Identifiers (DIDs) specification (link).
+The purpose of the  Hyperledger Indy/Sovrin/DID Comprehensive Architecture Reference Model (INDY ARM) is to provide a complete, reliable, precise, visual reference for the concepts presented in the draft Decentralized Identifiers (DIDs) specification (link).
 
 The primary audience for this article are: software people (software architects and developers), enterprise architects, and anyone new to the Hyperledger Indy project or the field of self-sovereign identity (SSI) looking to find a fast on-ramp.
 
